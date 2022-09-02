@@ -8,7 +8,7 @@
 #include <sys/wait.h>
 #include <string.h>
 
-
+int _putchar(char c);
 
 
 #endif
